@@ -1,5 +1,5 @@
-##PicSpeak!
-#PennApps Fall 2016 Submission
+#PicSpeak!
+##PennApps Fall 2016 Submission
 
 This application converts images to speech to help people with visual impairments, trouble reading non-native documents, or learning a foreign language. In order to access basic necessities in society, we often must encounter printed documents. However, not everyone has the same level of accessibility to either read or understand these important files. So one way to address this issue:
 
